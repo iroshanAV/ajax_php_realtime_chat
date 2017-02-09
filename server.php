@@ -1,5 +1,5 @@
 <?php
-  //Let's fetch the value of last displayed chat id
+  //fetch the value of last displayed chat id
   $data = $_REQUEST;
   $last_displayed_chat_id = $data['last_displayed_chat_id'];
   
