@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.rb linguist-language=Php
+*.rb linguist-language=php
