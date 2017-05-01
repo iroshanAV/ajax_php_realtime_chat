@@ -1,4 +1,4 @@
-# ajax_php_realtime_chat
+# ajax_php_realtime_chat (project2)
 This php based realtime chat can be use to chat. It get's update in real time and so that people can see the chat box dynamically.Also database updates on each occasions by storing user messages.
 
 Used technologies-
