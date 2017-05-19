@@ -51,10 +51,8 @@
 				error : function( http , status , error ) {
 					alert( 'Some Error Occured : ' + error );
 				}
-			});
-			
-			return false;
-		
+			});			
+			return false;		
 		}
 
 
@@ -72,8 +70,7 @@
 	  },
 	  error : function(http, status, error){
 	    alert('Some Error ccured : '+error);
-	  }
-	  
+	  }	  
 	});
   }
  updateChat();
